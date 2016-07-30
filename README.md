@@ -27,7 +27,7 @@ I would ask all of you to setup development environment in your notebooks. This 
 * Install 
   * [Git] (https://git-scm.com/downloads)
   * [Java] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  * Option 1: Needs quite a space ~1GB on your notebook. Make sure you have this space available.
+  * Option 1: Needs quite a space ~1.5GB on your notebook. Make sure you have this space available.
     * [Android Studio] (https://developer.android.com/studio/index.html)
     (This will take a while to setup)
   * Option 2: If you already have eclipse.
