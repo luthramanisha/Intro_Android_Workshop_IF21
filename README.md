@@ -6,7 +6,7 @@ Android is now the world's most popular mobile platform. It powers millions of m
 
 Here are some features of Android, what makes it so fascinating:
 * Open source community:
-New vendors can opt for Android mobile operating system anytime. Developers can build innovative applications and distibute them instantly.
+New vendors can opt for Android mobile operating system anytime. Developers can build innovative applications and distribute them instantly.
 * Open marketplace:
 One million applications are now available on Google Play Store, with a range of education apps, health apps, games apps and many other utility apps.
 * Dozens of job opportunities:
