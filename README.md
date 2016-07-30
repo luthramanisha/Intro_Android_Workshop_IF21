@@ -19,5 +19,37 @@ With Java and XML mostly used coding languages, it becomes very easy to learn an
 * Android's main building blocks.
 * Useful APIs of Android.
 * Some short tutorials.
-* Time to contribute your innovation in mobile apps
+* Time to design your innovative mobile apps
+
+## Steps to quick start
+I would ask all of you to setup development environment in your notebooks. This would allows us to quickly learn and start designing apps in the workshop. Following guide will help you in the installation.
+
+* Install 
+  * [Git] (https://git-scm.com/downloads)
+  * [Java] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+  * Option 1: Needs quite a space ~1GB on your notebook. Make sure you have this space available.
+    * [Android Studio] (https://developer.android.com/studio/index.html)
+    (This will take a while to setup)
+  * Option 2: If you already have eclipse.
+    * [Eclipse + ADT] (https://developer.android.com/studio/tools/sdk/eclipse-adt.html)
+    * [Step by step guide] (http://stackoverflow.com/questions/27418096/where-can-i-download-eclipse-android-bundle)
+
+### Troubleshooting
+  * Java : 
+    [Environment Path] (https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)
+  * Android Studio : 
+    if it is very slow, try re-configuring the memory allocation at ` $ANDROIDSTUDIOHOME/bin/studio.exe.vmoptions `, e.g.,:
+
+     ```
+      -Xms512m
+      -Xmx1024m
+      ```
+  * Eclipse : 
+    if it is very slow, try re-configuring the memory allocation at `$ECLIPSEHOME/eclipse.ini`, e.g.,:
+
+      ```
+      -Xms512m
+      -Xmx1024m
+      ```
+
 
