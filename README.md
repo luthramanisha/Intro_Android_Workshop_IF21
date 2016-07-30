@@ -15,3 +15,10 @@ Looking at the android market, there is a revolution of job propects for android
 With Java and XML mostly used coding languages, it becomes very easy to learn android. Also, looking at its wide use there is a lot of support
 one can get from the community.
 
+### What we will learn?
+* Basics to quick start. An insight into the android stack.
+* Android's main building blocks.
+* Useful APIs of Android.
+* Some short tutorials.
+* Time to contribute your innovation in mobile apps
+
