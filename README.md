@@ -21,7 +21,7 @@ With Java and XML mostly used coding languages, it becomes very easy to learn an
 * Some short tutorials.
 * Time to design your innovative mobile apps
 
-## Steps to quick start
+## Steps to quick-start
 I would ask all of you to setup development environment in your notebooks. This would allows us to quickly learn and start designing apps in the workshop. Following guide will help you in the installation.
 
 * Install 
