@@ -27,12 +27,17 @@ I would ask all of you to setup development environment in your notebooks. This 
 * Install 
   * [Git] (https://git-scm.com/downloads)
   * [Java] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  * Option 1: Needs quite a space ~1.5GB on your notebook. Make sure you have this space available.
+  * Option 1 (Preferable): Needs quite a space ~1.5GB on your notebook. Make sure you have this space available.
     * [Android Studio] (https://developer.android.com/studio/index.html)
     (This will take a while to setup)
   * Option 2: If you already have eclipse.
     * [Eclipse + ADT] (https://developer.android.com/studio/tools/sdk/eclipse-adt.html)
     * [Step by step guide] (http://stackoverflow.com/questions/27418096/where-can-i-download-eclipse-android-bundle)
+
+### Pre-installed android sdk
+If you already have played around with android before, and want to learn about the latest version, please update your sdk version by `android-sdk-manager`. Here, are the steps you would take to update your existing sdk:
+  * Launch `SDK Manager`.
+  * Select latest Android SDK Tools, Platform Tools, SDK Build-tools, API 21-23. Since, we would certainly need the minimum sdk compatibility upto API 21 (Android 5.0.1) as all of us are not so update conscious :) 
 
 ### Troubleshooting
   * Java : 
