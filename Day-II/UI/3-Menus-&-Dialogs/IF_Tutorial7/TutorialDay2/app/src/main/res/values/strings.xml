@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intro to Android OS Day 2</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="file">File</string>
+    <string name="create_new">Create</string>
+    <string name="open">Open</string>
+
+</resources>
