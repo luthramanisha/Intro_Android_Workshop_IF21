@@ -1,4 +1,4 @@
-# Introduction to Android Operating System for Informatica Feminale 2016
+# Introduction to Android Operating System for Informatica Feminale 2016 in Bremen
 
 ## Why learn Android ?
 
