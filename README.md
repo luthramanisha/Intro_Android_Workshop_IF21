@@ -60,6 +60,12 @@ If you already have played around with android before, and want to learn about t
   
   Others can download manufacturer specific drivers from [here] (https://developer.android.com/studio/run/oem-usb.html#Drivers).
 
+## Grading scheme (for ECTS)
+
+* Participation: 10% 
+* In-workshop Exercises : 40% 
+* Final Demo: 10% 
+* Post-workshop Exercises : 40% 
 
 ## Some useful links
 * [Official website] (https://developer.android.com/index.html)
