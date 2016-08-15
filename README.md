@@ -56,6 +56,10 @@ If you already have played around with android before, and want to learn about t
       -Xms512m
       -Xmx1024m
       ```
+  * To help you quick-start Android, some USB drivers can be availed from [here]. (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers)
+  
+  Others can download manufacturer specific drivers from [here]. (https://developer.android.com/studio/run/oem-usb.html#Drivers) 
+
 
 ## Some useful links
 * [Official website] (https://developer.android.com/index.html)
@@ -64,4 +68,5 @@ If you already have played around with android before, and want to learn about t
   * [By Ed Burnette] (https://www.amazon.de/Hello-Android-Introducing-Development-Platform/dp/1680500376/ref=sr_1_1?ie=UTF8&qid=1469994179&sr=8-1&keywords=Hello%2C+Android%3A+Introducing+Google%27s+Mobile+Development+Platform)
   * [Cookbook] (https://www.amazon.de/Android-Application-Development-Cookbook-Second/dp/1785886193/ref=sr_1_1?ie=UTF8&qid=1469994286&sr=8-1&keywords=Android+Application+Development)
   * [Android App Testing] (https://www.amazon.de/Learning-Android-Application-Testing-Blundell/dp/1784395331/ref=sr_1_13?ie=UTF8&qid=1469994286&sr=8-13&keywords=Android+Application+Development)
+  * [Gradle e-Book for Android ] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/Gradle-eBook4Android)
 
