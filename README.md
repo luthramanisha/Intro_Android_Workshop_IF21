@@ -56,9 +56,9 @@ If you already have played around with android before, and want to learn about t
       -Xms512m
       -Xmx1024m
       ```
-  * To help you quick-start Android, some USB drivers can be availed from [here]. (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers)
+  * To help you quick-start Android, some USB drivers can be availed from [here] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
   
-  Others can download manufacturer specific drivers from [here]. (https://developer.android.com/studio/run/oem-usb.html#Drivers) 
+  Others can download manufacturer specific drivers from [here] (https://developer.android.com/studio/run/oem-usb.html#Drivers).
 
 
 ## Some useful links
