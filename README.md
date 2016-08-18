@@ -60,6 +60,19 @@ If you already have played around with android before, and want to learn about t
   
   Others can download manufacturer specific drivers from [here] (https://developer.android.com/studio/run/oem-usb.html#Drivers).
 
+## In-workshop Exercise
+
+### List of some ideas for Android apps
+[Here] (https://github.com/manishaluthra/awesome-app-ideas) you can find a forked repository of cool ideas for Android apps. You can of course think of your own idea as well. Its fine if it comprises of:
+
+* 1-2 activities
+* 1-2 layouts
+* use of intent
+* some use of UI elements taught in the workshop (Day II)
+* java source (logic of your idea)
+
+It need not be something very big or comprehensive but just to demonstrate that you understood features taught in the workshop.
+
 ## Grading scheme (for ECTS)
 
 * Participation: 10% 
