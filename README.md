@@ -1,4 +1,4 @@
-# Introduction to Android Operating System for Informatica Feminale 2016
+# Introduction to Android Operating System for Informatica Feminale 2016 in Bremen
 
 ## Why learn Android ?
 
@@ -56,6 +56,29 @@ If you already have played around with android before, and want to learn about t
       -Xms512m
       -Xmx1024m
       ```
+  * To help you quick-start Android, some USB drivers can be availed from [here] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
+  
+  Others can download manufacturer specific drivers from [here] (https://developer.android.com/studio/run/oem-usb.html#Drivers).
+
+## In-workshop Exercise
+
+### List of some ideas for Android apps
+[Here] (https://github.com/manishaluthra/awesome-app-ideas) you can find a forked repository of cool ideas for Android apps. You can of course think of your own idea as well. Its fine if it comprises of:
+
+* 1-2 activities
+* 1-2 layouts
+* use of intent
+* some use of UI elements taught in the workshop (Day II)
+* java source (logic of your idea)
+
+It need not be something very big or comprehensive but just to demonstrate that you understood features taught in the workshop.
+
+## Grading scheme (for ECTS)
+
+* Participation: 10% 
+* In-workshop Exercises : 40% 
+* Final Demo: 10% 
+* Post-workshop Exercises : 40% 
 
 ## Some useful links
 * [Official website] (https://developer.android.com/index.html)
@@ -64,4 +87,5 @@ If you already have played around with android before, and want to learn about t
   * [By Ed Burnette] (https://www.amazon.de/Hello-Android-Introducing-Development-Platform/dp/1680500376/ref=sr_1_1?ie=UTF8&qid=1469994179&sr=8-1&keywords=Hello%2C+Android%3A+Introducing+Google%27s+Mobile+Development+Platform)
   * [Cookbook] (https://www.amazon.de/Android-Application-Development-Cookbook-Second/dp/1785886193/ref=sr_1_1?ie=UTF8&qid=1469994286&sr=8-1&keywords=Android+Application+Development)
   * [Android App Testing] (https://www.amazon.de/Learning-Android-Application-Testing-Blundell/dp/1784395331/ref=sr_1_13?ie=UTF8&qid=1469994286&sr=8-13&keywords=Android+Application+Development)
+  * [Gradle e-Book for Android ] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/Gradle-eBook4Android)
 
