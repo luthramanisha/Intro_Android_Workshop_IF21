@@ -74,7 +74,9 @@ If you already have played around with android before, and want to learn about t
 It need not be something very big or comprehensive but just to demonstrate that you understood features taught in the workshop.
 
 #### Color picker
-Have a look [here] (https://github.com/QuadFlask/colorpicker)
+Have a look :
+[1] (https://github.com/QuadFlask/colorpicker)
+[2] (https://github.com/danielnilsson9/color-picker-view)
 
 ## Grading scheme (for ECTS)
 
