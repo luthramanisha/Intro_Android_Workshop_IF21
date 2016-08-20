@@ -1,4 +1,4 @@
-# Introduction to Android Operating System for Informatica Feminale 2016 in Bremen
+# Introduction to Android Operating System for Informatica Feminale 2016 at Bremen
 
 ## Why learn Android ?
 
@@ -88,6 +88,9 @@ Have a look :
 ## Some useful links
 * [Official website] (https://developer.android.com/index.html)
 * [API guide] (https://developer.android.com/guide/index.html)
+* [Web-apps] (https://developer.android.com/guide/webapps/index.html)
+* [Best-practices] (https://developer.android.com/guide/practices/index.html)
+* [Training] (https://developer.android.com/training/index.html)
 * Books
   * [By Ed Burnette] (https://www.amazon.de/Hello-Android-Introducing-Development-Platform/dp/1680500376/ref=sr_1_1?ie=UTF8&qid=1469994179&sr=8-1&keywords=Hello%2C+Android%3A+Introducing+Google%27s+Mobile+Development+Platform)
   * [Cookbook] (https://www.amazon.de/Android-Application-Development-Cookbook-Second/dp/1785886193/ref=sr_1_1?ie=UTF8&qid=1469994286&sr=8-1&keywords=Android+Application+Development)
