@@ -1,4 +1,4 @@
-# Introduction to Android Operating System for Informatica Feminale 2016 at Bremen
+# Introduction to Android Operating System for Informatica Feminale 2021 at Bremen
 
 ## Why learn Android ?
 
@@ -27,6 +27,7 @@ I would ask all of you to setup development environment in your notebooks. This 
 * Install 
   * [Git] (https://git-scm.com/downloads)
   * [Java] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+  * [Gradle] (https://gradle.org/install/) 
   * Option 1 (Preferable): Needs quite a space ~1.5GB on your notebook. Make sure you have this space available.
     * [Android Studio] (https://developer.android.com/studio/index.html)
     (This will take a while to setup)
@@ -37,7 +38,12 @@ I would ask all of you to setup development environment in your notebooks. This 
 ### Pre-installed android sdk
 If you already have played around with android before, and want to learn about the latest version, please update your sdk version by `android-sdk-manager`. Here, are the steps you would take to update your existing sdk:
   * Launch `SDK Manager`.
-  * Select latest Android SDK Tools, Platform Tools, SDK Build-tools, API 21-23. Since, we would certainly need the minimum sdk compatibility upto API 21 (Android 5.0.1) as all of us are not so update conscious :) 
+  * Select latest Android SDK Tools, Platform Tools, SDK Build-tools, API 29-31. Since, we would certainly need the minimum sdk compatibility upto API 21 (Android 5.0.1) as all of us are not so update conscious :) 
+ 
+In case you want to update the android version using Android Studio, you need to follow the below steps:
+  * Go to Tools -> SDK manager 
+  * Select Android SDK on the left pane (default) and `SDK Platforms` on the right pane. Select latest Android (API level 29-31). Click OK.
+  * You will see a dialog mentioning the components that will be installed and the corresponding disk usage. Make sure you have sufficient space for the SDK. Otherwise deselect API level 29 and only install 30 and 31. Click OK. 
 
 ### Troubleshooting
   * Java : 
@@ -71,7 +77,7 @@ If you already have played around with android before, and want to learn about t
 * some use of UI elements taught in the workshop (Day II)
 * java source (logic of your idea)
 
-It need not be something very big or comprehensive but just to demonstrate that you understood features taught in the workshop.
+It need not be something very big or comprehensive but just to demonstrate that you understood concepts taught in the workshop.
 
 #### Color picker
 Have a look :
