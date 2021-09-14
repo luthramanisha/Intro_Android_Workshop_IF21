@@ -62,15 +62,15 @@
         android:layout_alignParentStart="true" />
 
     <EditText
+        android:id="@+id/editText3"
         android:layout_width="@dimen/editTextSize"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:hint="Phone"
-        android:ems="10"
-        android:id="@+id/editText3"
         android:layout_alignBottom="@+id/textView3"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:ems="10"
+        android:hint="Phone"
+        android:inputType="textPersonName" />
 
     <TextView
         android:layout_width="wrap_content"

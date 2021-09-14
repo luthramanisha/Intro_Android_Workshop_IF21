@@ -15,18 +15,18 @@ import android.widget.Toast;
  */
 public class ListActivity extends android.app.ListActivity {
 
-    static final String[] PARTICIPANTS = new String[] { "Mariam Asaad" ,
-    "Janny David" ,
-    "Oksana Diuzhikova",
-    "Cemre Köksaloğlu",
-    "Darya Kushchenko",
-    "ann",
-    "Alexis Mikka",
-    "Ezelsu Şimşek",
-    "Julia Stache",
-    "Berra Yalcin",
-    "Angela Schaefer",
-    "Gizem Karsli"
+    static final String[] PARTICIPANTS = new String[] { "abc" ,
+    "def" ,
+    "ghi",
+    "jkl",
+    "mno",
+    "pqr",
+    "stu",
+    "vwx",
+    "yza",
+    "bcd",
+    "efg",
+    "hij"
     };
 
     @Override

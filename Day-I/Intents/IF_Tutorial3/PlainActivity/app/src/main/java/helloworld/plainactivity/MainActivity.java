@@ -14,6 +14,7 @@ import android.widget.RadioButton;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private EditText mName, mAddress, mPhone, mSchool;
+    private RadioButton yes,no;
     private boolean mAndroid;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -84,16 +85,20 @@ public class MainActivity extends AppCompatActivity {
 
     public void onRadioButtonClicked(View view) {
         boolean check = ((RadioButton) view).isChecked();
+        yes = (RadioButton) findViewById(R.id.yes);
+        no = (RadioButton) findViewById(R.id.no);
 
-        //Check which button is clioked
+        //Check which button is clicked
         switch(view.getId()) {
             case R.id.yes:
                 if (check)
                     mAndroid = true;
+                    no.setChecked(false);
                 break;
             case R.id.no:
                 if (check)
                     mAndroid = false;
+                    yes.setChecked(false);
                 break;
             default:
                 mAndroid = true; // :)

@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class InfoActivity extends AppCompatActivity {
     private final String TAG = "InfoActivity";
-    private Intent intent;
+    private Intent service, intentService;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,15 +36,21 @@ public class InfoActivity extends AppCompatActivity {
 
     }
 
+
     //event listener for start service button
     public void onStartService(View view) {
         //Intent intentService = new Intent(getApplicationContext(), MyIntentService.class);
         //startService(intentService);
-        intent = new Intent(getApplicationContext(), MyService.class);
-        startService(intent);
+        service = new Intent(getApplicationContext(), MyService.class);
+        startService(service);
     }
 
     public void onStopService(View view) {
-        stopService(intent);
+        stopService(service);
+    }
+
+    public void onStartIntentService(View view) {
+        intentService = new Intent(getApplicationContext(), MyIntentService.class);
+        startService(intentService);
     }
 }
