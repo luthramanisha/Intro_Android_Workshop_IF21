@@ -62,7 +62,9 @@ In case you want to update the android version using Android Studio, you need to
       -Xms512m
       -Xmx1024m
       ```
-  * To help you quick-start Android, some USB drivers can be availed from [here](https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
+  * Now you can connect your devices to your laptop wirelessly. See [here](https://developer.android.com/studio/run/device) for more information.
+ 
+  * Old school method: To help you, some USB drivers can be availed from [here](https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
   
   Others can download manufacturer specific drivers from [here](https://developer.android.com/studio/run/oem-usb.html#Drivers).
 
