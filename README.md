@@ -25,15 +25,15 @@ With Java and XML mostly used coding languages, it becomes very easy to learn an
 I would ask all of you to setup development environment in your notebooks. This would allows us to quickly learn and start designing apps in the workshop. Following guide will help you in the installation.
 
 * Install 
-  * [Git] (https://git-scm.com/downloads)
-  * [Java] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  * [Gradle] (https://gradle.org/install/) 
+  * [Git](https://git-scm.com/downloads)
+  * Java environment. Select JDK 11. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+  * [Gradle](https://gradle.org/install/) 
   * Option 1 (Preferable): Needs quite a space ~1.5GB on your notebook. Make sure you have this space available.
-    * [Android Studio] (https://developer.android.com/studio/index.html)
+    * [Android Studio](https://developer.android.com/studio/index.html)
     (This will take a while to setup)
   * Option 2: If you already have eclipse.
-    * [Eclipse + ADT] (https://developer.android.com/studio/tools/sdk/eclipse-adt.html)
-    * [Step by step guide] (http://stackoverflow.com/questions/27418096/where-can-i-download-eclipse-android-bundle)
+    * [Eclipse + ADT](https://developer.android.com/studio/tools/sdk/eclipse-adt.html)
+    * [Step by step guide](http://stackoverflow.com/questions/27418096/where-can-i-download-eclipse-android-bundle)
 
 ### Pre-installed android sdk
 If you already have played around with android before, and want to learn about the latest version, please update your sdk version by `android-sdk-manager`. Here, are the steps you would take to update your existing sdk:
@@ -47,7 +47,7 @@ In case you want to update the android version using Android Studio, you need to
 
 ### Troubleshooting
   * Java : 
-    [Environment Path] (https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)
+    [Environment Path](https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)
   * Android Studio : 
     if it is very slow, try re-configuring the memory allocation at ` $ANDROIDSTUDIOHOME/bin/studio.exe.vmoptions `, e.g.,:
 
@@ -62,14 +62,16 @@ In case you want to update the android version using Android Studio, you need to
       -Xms512m
       -Xmx1024m
       ```
-  * To help you quick-start Android, some USB drivers can be availed from [here] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
+  * Now you can connect your devices to your laptop wirelessly. See [here](https://developer.android.com/studio/run/device) for more information.
+ 
+  * Old school method: To help you, some USB drivers can be availed from [here](https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/USB_Drivers).
   
-  Others can download manufacturer specific drivers from [here] (https://developer.android.com/studio/run/oem-usb.html#Drivers).
+  Others can download manufacturer specific drivers from [here](https://developer.android.com/studio/run/oem-usb.html#Drivers).
 
 ## In-workshop Exercise
 
 ### List of some ideas for Android apps
-[Here] (https://github.com/manishaluthra/awesome-app-ideas) you can find a forked repository of cool ideas for Android apps. You can of course think of your own idea as well. Its fine if it comprises of:
+[Here](https://github.com/manishaluthra/awesome-app-ideas) you can find a forked repository of cool ideas for Android apps. You can of course think of your own idea as well. Its fine if it comprises of:
 
 * 1-2 activities
 * 1-2 layouts
@@ -81,8 +83,8 @@ It need not be something very big or comprehensive but just to demonstrate that 
 
 #### Color picker
 Have a look :
-[1] (https://github.com/QuadFlask/colorpicker)
-[2] (https://github.com/danielnilsson9/color-picker-view)
+[1](https://github.com/QuadFlask/colorpicker)
+[2](https://github.com/danielnilsson9/color-picker-view)
 
 ## Grading scheme (for ECTS)
 
@@ -92,14 +94,14 @@ Have a look :
 * Post-workshop Exercises : 40% 
 
 ## Some useful links
-* [Official website] (https://developer.android.com/index.html)
-* [API guide] (https://developer.android.com/guide/index.html)
-* [Web-apps] (https://developer.android.com/guide/webapps/index.html)
-* [Best-practices] (https://developer.android.com/guide/practices/index.html)
-* [Training] (https://developer.android.com/training/index.html)
+* [Official website](https://developer.android.com/index.html)
+* [API guide](https://developer.android.com/guide/index.html)
+* [Web-apps](https://developer.android.com/guide/webapps/index.html)
+* [Best-practices](https://developer.android.com/guide/practices/index.html)
+* [Training](https://developer.android.com/training/index.html)
 * Books
-  * [By Ed Burnette] (https://www.amazon.de/Hello-Android-Introducing-Development-Platform/dp/1680500376/ref=sr_1_1?ie=UTF8&qid=1469994179&sr=8-1&keywords=Hello%2C+Android%3A+Introducing+Google%27s+Mobile+Development+Platform)
-  * [Cookbook] (https://www.amazon.de/Android-Application-Development-Cookbook-Second/dp/1785886193/ref=sr_1_1?ie=UTF8&qid=1469994286&sr=8-1&keywords=Android+Application+Development)
-  * [Android App Testing] (https://www.amazon.de/Learning-Android-Application-Testing-Blundell/dp/1784395331/ref=sr_1_13?ie=UTF8&qid=1469994286&sr=8-13&keywords=Android+Application+Development)
-  * [Gradle e-Book for Android ] (https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/Gradle-eBook4Android)
+  * [By Nerd Ranch](https://www.amazon.de/dp/0134706056?tag=hackr03c-21&geniuslink=true)
+  * [Cookbook](https://www.amazon.de/Android-Application-Development-Cookbook-Second/dp/1785886193/ref=sr_1_1?ie=UTF8&qid=1469994286&sr=8-1&keywords=Android+Application+Development)
+  * [Android App Testing](https://www.amazon.de/Learning-Android-Application-Testing-Blundell/dp/1784395331/ref=sr_1_13?ie=UTF8&qid=1469994286&sr=8-13&keywords=Android+Application+Development)
+  * [Gradle e-Book for Android ](https://github.com/manishaluthra/Intro_Android_Workshop_IF16/tree/master/Gradle-eBook4Android)
 
