@@ -1,4 +1,4 @@
-package anif.tutorialday2;
+package anif.tutorialday3;
 
 import org.junit.Test;
 

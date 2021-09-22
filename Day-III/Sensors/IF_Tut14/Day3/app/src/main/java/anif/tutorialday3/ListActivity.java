@@ -1,4 +1,4 @@
-package anif.tutorialday2;
+package anif.tutorialday3;
 
 import android.content.Context;
 import android.hardware.Sensor;
@@ -47,8 +47,10 @@ public class ListActivity extends android.app.ListActivity implements SensorEven
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // no more this
-        // setContentView(R.layout.list_fruit);
+        /**
+        IF_Tutorial14 for sensors
+         **/
+        
         sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         List<Sensor> deviceSensors = sensorManager.getSensorList(Sensor.TYPE_ALL);
         for (Sensor sensor: deviceSensors) {
