@@ -92,9 +92,9 @@ Have a look :
 ## Grading scheme (for ECTS)
 
 * Participation: 10% 
-* In-workshop Exercises : 40% 
-* Final Demo: 10% 
-* Post-workshop Exercises : 40% 
+* In-workshop Exercises : 20% 
+* Initial Presentation: 10% 
+* Post-workshop Exercise : 60% 
 
 ## Some useful links
 * [Official website](https://developer.android.com/index.html)
