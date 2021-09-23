@@ -77,9 +77,12 @@ In case you want to update the android version using Android Studio, you need to
 * 1-2 layouts
 * use of intent
 * some use of UI elements taught in the workshop (Day II)
+* some use of Sensors (Day III) (optional)
 * java source (logic of your idea)
 
 It need not be something very big or comprehensive but just to demonstrate that you understood concepts taught in the workshop.
+
+The *deadline* to finish the app is *18th October, 00:00h*. 
 
 #### Color picker
 Have a look :
